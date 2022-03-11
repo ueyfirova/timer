@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'RedHatText-Bold';
+    src: url("../fonts/RedHatText-Bold.woff2"),
+    url("../fonts/RedHatText-Bold.woff");
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+}
